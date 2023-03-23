@@ -1,0 +1,12 @@
+{
+    "users":[{
+            "id":1,
+            "name":"Vitor Mendes",
+            "email":"mendes.vitor2104@gmail.com"
+        },{
+            "id":2,
+            "name":"Segunda Pessoa",
+            "email":"fantasy@imail.com"
+        }
+    ]
+}
